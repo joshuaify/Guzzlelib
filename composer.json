@@ -1,0 +1,15 @@
+{
+  "name": "joshuaify/guzzlelib",
+  "description": "A wrapper library for Guzzle HTTP client",
+  "type": "library",
+  "require": {
+    "php": "^7.4",
+    "guzzlehttp/guzzle": "^7.9"
+  },
+  "autoload": {
+    "psr-4": {
+      "joshuaify\\Guzzlelib\\": "src/"
+    }
+  },
+  "license": "MIT"
+}
