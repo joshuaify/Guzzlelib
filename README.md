@@ -6,7 +6,7 @@ This library can be used with PHP 7.4+ and is compatible with popular PHP framew
 
 ## Requirements
 
-- PHP 7.2 or higher
+- PHP 7.4 or higher
 - Composer (for dependency management)
 - Guzzle HTTP client
 
