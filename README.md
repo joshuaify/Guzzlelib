@@ -13,10 +13,10 @@ Guzzlelib is a PHP wrapper library for Guzzle HTTP client, providing a simplifie
 You can install Guzzlelib using Composer. Run the following command in your project directory:
 
 ```
-composer require your-vendor/guzzlelib
+composer require joshuaify/guzzlelib
 ```
 
-Replace `your-vendor` with your actual vendor name on Packagist.
+Replace `joshuaify` with your actual vendor name on Packagist.
 
 ## Usage
 
@@ -25,7 +25,7 @@ Replace `your-vendor` with your actual vendor name on Packagist.
 First, include the Guzzlelib class in your PHP file:
 
 ```php
-use YourVendor\Guzzlelib\Guzzlelib;
+use joshuaify\Guzzlelib\Guzzlelib;
 ```
 
 Then, create an instance of Guzzlelib:
