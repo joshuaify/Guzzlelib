@@ -2,11 +2,11 @@
 
 Guzzlelib is a PHP wrapper library for Guzzle HTTP client, providing a simplified interface for making HTTP requests. It offers an easy-to-use API for GET, POST, PUT, PATCH, and DELETE requests, with built-in error handling and response parsing.
 
-This library can be used with PHP 7.4+ and is compatible with popular PHP frameworks, including Laravel, Symfony, CodeIgniter, Zend, Yii, CakePHP, and Slim. It's ideal for any PHP application that requires streamlined API communication. 
+This library can be used with PHP 7.2+ and is compatible with popular PHP frameworks, including Laravel, Symfony, CodeIgniter, Zend, Yii, CakePHP, and Slim. It's ideal for any PHP application that requires streamlined API communication. 
 
 ## Requirements
 
-- PHP 7.4 or higher
+- PHP 7.2 or higher
 - Composer (for dependency management)
 - Guzzle HTTP client
 
