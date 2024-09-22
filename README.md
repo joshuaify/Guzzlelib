@@ -18,8 +18,6 @@ You can install Guzzlelib using Composer. Run the following command in your proj
 composer require joshuaify/guzzlelib
 ```
 
-Replace `joshuaify` with your actual vendor name on Packagist.
-
 ## Usage
 
 ### Initialization
@@ -27,7 +25,7 @@ Replace `joshuaify` with your actual vendor name on Packagist.
 First, include the Guzzlelib class in your PHP file:
 
 ```php
-use joshuaify\Guzzlelib\Guzzlelib;
+use joshuaify\Guzzlelib;
 ```
 
 Then, create an instance of Guzzlelib:
