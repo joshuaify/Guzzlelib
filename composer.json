@@ -8,7 +8,12 @@
   },
   "autoload": {
     "psr-4": {
-      "joshuaify\\Guzzlelib\\": "src/"
+      "joshuaify\\Guzzlelib\\": "src/Guzzlelib"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "joshuaify\\Guzzlelib\\": "tests/Guzzlelib"
     }
   },
   "license": "MIT",
