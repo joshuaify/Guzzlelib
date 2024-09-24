@@ -2,14 +2,23 @@
   "name": "joshuaify/guzzlelib",
   "description": "A wrapper library for Guzzle HTTP client",
   "type": "library",
-  "keywords": ["joshuaify", "api", "php", "client", "guzzlelib", "laravel", "codeigniter", "api-requests"],
+  "keywords": [
+    "joshuaify",
+    "api",
+    "php",
+    "client",
+    "guzzlelib",
+    "laravel",
+    "codeigniter",
+    "api-requests"
+  ],
   "authors": [
-      {
-          "name": "Joshua Oguchi",
-          "email": "josh@pypapi.ng",
-          "homepage": "https://pypapi.ng",
-          "role": "Developer"
-      }
+    {
+      "name": "Joshua Oguchi",
+      "email": "josh@pypapi.ng",
+      "homepage": "https://pypapi.ng",
+      "role": "Developer"
+    }
   ],
   "homepage": "https://docs.pypapi.ng/guzzlelib/",
   "require": {
@@ -18,12 +27,12 @@
   },
   "autoload": {
     "psr-4": {
-      "joshuaify\\Guzzlelib\\": "src/"
+      "joshuaify\\API\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "joshuaify\\Guzzlelib\\": "tests/"
+      "joshuaify\\API\\": "tests/"
     }
   },
   "license": "MIT",

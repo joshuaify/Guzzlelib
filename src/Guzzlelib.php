@@ -1,6 +1,6 @@
 <?php
 
-namespace joshuaify\Guzzlelib;
+namespace joshuaify\API;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\RequestException;

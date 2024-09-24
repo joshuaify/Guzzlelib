@@ -25,7 +25,7 @@ composer require joshuaify/guzzlelib
 First, include the Guzzlelib class in your PHP file:
 
 ```php
-use joshuaify\Guzzlelib\Guzzlelib;
+use joshuaify\API\Guzzlelib;
 ```
 or
 
