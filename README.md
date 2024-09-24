@@ -27,6 +27,11 @@ First, include the Guzzlelib class in your PHP file:
 ```php
 use joshuaify\Guzzlelib;
 ```
+or
+ 
+```php
+require APPPATH . 'vendor/joshuaify/guzzlelib/src/Guzzlelib.php';
+```
 
 Then, create an instance of Guzzlelib:
 
